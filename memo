@@ -1,0 +1,4 @@
+docker exec -it todo_list_app_1 /bin/bash
+
+Rails version: 5.2.4.5
+Ruby version: 2.5.8 (x86_64-linux)

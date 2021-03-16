@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  priority: MyString
+  limit: 2021-03-16
+
+two:
+  content: MyText
+  priority: MyString
+  limit: 2021-03-16
